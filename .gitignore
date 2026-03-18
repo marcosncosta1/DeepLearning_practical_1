@@ -1,0 +1,38 @@
+# Dataset (too large for git)
+data/
+
+# Model checkpoints
+*.pth
+*.pt
+models/
+
+# TensorBoard logs
+runs/
+
+# Weights & Biases logs
+wandb/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+.env
