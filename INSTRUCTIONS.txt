@@ -154,6 +154,7 @@ MANDATORY (all required):
 OPTIONAL (we chose these 4):
 [X] Error analysis (Section F)
 [X] W&B monitoring (integrated throughout)
+[ ] Run a hyperparameter sweep with W&B (from the MLOps class)
 [X] Advanced architectures - ResNet comparison (Section G)
 [X] Data augmentation (Section H)
 
