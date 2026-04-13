@@ -4,6 +4,7 @@ data/
 # Model checkpoints
 *.pth
 *.pt
+!saved_models/*.pt
 models/
 
 # TensorBoard logs
